@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I am a **certified Salesforce Developer** with a strong background in designing and implementing CRM solutions for the **Health Care industry**. I specialize in Apex, Lightning Web Components (LWC), and Salesforce integrations, with a focus on delivering scalable, secure, and user-friendly applications that drive business growth.
+I am a **certified Salesforce Developer** with a strong background in designing and implementing CRM solutions for the **Health cloud industry**. I specialize in Apex, Lightning Web Components (LWC), and Salesforce integrations, with a focus on delivering scalable, secure, and user-friendly applications that drive business growth.
 
 ## 🛠️ Technical Skills
 
