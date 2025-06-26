@@ -38,6 +38,7 @@ I am a **certified Salesforce Developer** with a strong background in designing 
 - OmniStudio for industry-specific solutions  
 - Salesforce Data Cloud  
 - Advanced Apex and LWC performance optimization
+- Agentforce
 
 ## 📫 Contact
 
